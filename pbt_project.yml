@@ -1,0 +1,58 @@
+name: junie.douglas
+description: projection
+version: 0.48.603
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: juniedouglas
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:30:21'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:30:21'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:30:21.004625Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1557628403'
+  createdAt: '2025-09-19T23:30:21.004625Z'
+  type: plibMaven
+projectDependencies:
+  '178':
+    projectUID: 178
+    projectName: ethelyn.harber
+    repositoryPath: gitUri=http://gitserver:3000/dev_eP6j299c_team_296/dev_eP6j299c_project_178.git&subPath=
+    version: ethelyn.harber/0.08.665
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:30:18'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
